@@ -1,0 +1,16 @@
+
+.panier-button{
+    display: flex;
+    
+    justify-content: center;
+    align-items: center;
+    background-color: #83b71c;
+    color: white;
+    border: #ffffff;
+}
+.panier-button:hover{
+background-color: #a92836;
+}
+.change-color-text:hover{
+    color: #a92836;
+}
